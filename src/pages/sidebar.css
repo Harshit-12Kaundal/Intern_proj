@@ -1,0 +1,34 @@
+.home_leftsidebar{
+    background-color: black;
+    width: 19rem;
+    height: 150rem;
+}
+
+.home_rightsidebar{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.home_admin_bar{
+    color: white;
+}
+
+.home_p{
+    font-family: sans-serif,;
+    padding-left:.5rem;
+    padding-top:.5rem;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.ul_left_panel{
+    margin-top: 2rem;
+    margin-left: .5rem;
+}
+
+li{
+    color: rgb(119, 119, 119);
+    padding: 1.4rem;
+
+}

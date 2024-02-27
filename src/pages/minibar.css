@@ -1,0 +1,21 @@
+.mini_nav{
+    display: flex;
+    align-items: center;
+    margin-left: 2rem;
+}
+
+.home_nav{
+    color: red;
+}
+.span_mini{
+    margin-top: .5rem;
+    padding-left: 1rem;
+    padding-right: .2rem;
+}
+
+.line_mini{
+    width: 95%;
+    height: 1px;
+    margin: auto;
+    background-color: rgb(209, 207, 207);
+}

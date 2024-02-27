@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: none;
+    font-family: "sans-serif", "Helvetica Neue",;
+}
+
+
+.main_div{
+    display: flex;
+
+}
+

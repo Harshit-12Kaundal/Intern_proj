@@ -1,0 +1,41 @@
+.main_navbar{
+    display: flex;
+    align-items: center;
+    height: 4rem;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(218, 213, 213);
+}
+.hamburger_icon{
+    font-size: 2rem;
+    margin-left: 2rem;
+
+}
+
+.div_icons{
+    margin-left:2rem ;
+}
+
+.main_main_div{
+    display: flex;
+}
+
+.main_icon_navbar{
+    font-size: 1.5rem;
+    font-weight:500 ;
+    color: red;
+}
+
+.second_main_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.bell_icon{
+    font-size: 1.5rem;
+}
+.span_kabir{
+    font-size: 1.5rem;
+    margin-right: 2rem;
+}
